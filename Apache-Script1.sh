@@ -11,12 +11,12 @@ sudo systemctl status apache2
 sudo systemctl restart apache2
 sudo systemctl status apache2 
 #ip a
-curl  http://172.31.26.39
-curl -I  http://172.31.26.39
+#curl  http://172.31.26.39
+#curl -I  http://172.31.26.39
 #history
 apt install git -y
-git config --global user.name "sumank792"
-git config --global user.email "suman.kodi792@gmail.com"
+#git config --global user.name "sumank792"
+#git config --global user.email "suman.kodi792@gmail.com"
 #git https://github.com/sumank792/sumank792.git
 git status
 git add Apache-Scripting.sh
@@ -27,7 +27,7 @@ git checkout main
 git status
 #git merge my-new-scrptingfile
 git push origin --all
-git push origin --sumank792-1
+#git push origin --sumank792-1
 #git push origin --all
 #git clone https://github.com/sumank792/sumanscripting/tree/Apache-Scripting.sh
 #git clone https://github.com/sumank792/sumank792.git
